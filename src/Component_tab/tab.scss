@@ -1,0 +1,14 @@
+.tab_section{
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    color:#3f51b5;
+}
+.tab_section:hover{
+  text-decoration: none;
+ }
+.tab_section.active{
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #3f51b5;
+}
